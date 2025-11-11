@@ -77,3 +77,5 @@ Exercício 015 - Verificador de Idade - <a href="https://github.com/WallissonDev
 </p>
 <hr>
 
+<p> Módulo D: Repetições em JavaScript</p><br>
+

@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(79, 140, 255);
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+section#caixa-principal{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}

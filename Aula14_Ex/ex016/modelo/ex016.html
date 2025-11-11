@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Vamos contar</h1>
+    </header>
+    <form action="cadastro.php" id="caixa-principal">
+        <label for="inicio">Inicio:</label><input type="number" name="inicio" id="inicio" required="required"><br>
+
+        <label for="fim">Fim: </label><input type="number" name="fim" id="fim" required="required"><br>
+
+        <label for="passo">Passo: </label><input type="number" name="passo" id="passo" required="required"><br>
+
+    
+        <input type="button" value="Contar" onclick="contar()">
+
+        <p id="telaContagem">Preparando para contagem...</p>
+    </form>
+    <footer>&copy;Wallisson Moreira</footer>
+    <script src="script.js"></script>
+</body>
+</html>
