@@ -79,3 +79,13 @@ Exercício 015 - Verificador de Idade - <a href="https://github.com/WallissonDev
 
 <p> Módulo D: Repetições em JavaScript</p><br>
 
+<p>
+Exercício 016 - Contagem com For / While - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula14_Solved/ex016/modelo/script.js">Código JS</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula14_Solved/ex016/modelo/ex016.html>">Site</a>
+</p>
+
+<p>
+Exercício 017 - Gerando Tabuada - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula14_Solved/ex017/modelo/script.js">Código JS</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula14_Solved/ex017/modelo/ex017.html>">Site</a>
+</p>
+<hr>
+
+<p> Módulo F: Avançando os estudos em JavaScript</p>
