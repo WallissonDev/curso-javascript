@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(79, 140, 255);
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+section#caixa-principal{
+    background-color: white;
+    width: 500px;
+    border-radius: 5px;
+    margin: auto;
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+label, input#valornum { 
+    margin: 15px 0px 10px 15px;
+}
+
+select { 
+    display: inline-block;
+    width: 200px;
+    margin: 15px;
+}
+
+input#finalizar {
+    display: block;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+p {
+    padding-left: 5px;
+}

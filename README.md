@@ -89,3 +89,5 @@ Exercício 017 - Gerando Tabuada - <a href="https://github.com/WallissonDev/curs
 <hr>
 
 <p> Módulo F: Avançando os estudos em JavaScript</p>
+Exercício 018 - Trabalhando com Arrays e Functions - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula16/ex018/modelo/script.js">Código JS</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula16/ex018/modelo/ex018.html>">Site</a>
+</p>
